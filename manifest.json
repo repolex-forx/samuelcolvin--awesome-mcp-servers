@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "awesome-mcp-servers",
+  "versions": [
+    {
+      "commit": "beb8dc051b807c9568c6e043b317271b59a36779",
+      "parsed_at": "2026-10-11T09:09:26.943237+00:00",
+      "filetree": "filetree/beb8dc051b807c9568c6e043b317271b59a36779.nq.gz",
+      "blobs": [
+        "blob/1e543669d96fd00ac76313d82422d7746e54929b.nq.gz",
+        "blob/7f5a6e30ea24860b1528cfb7a54cf777650fd46a.nq.gz",
+        "blob/618f243bcd9cd04268ac9bd4bfab322b36d847d9.nq.gz",
+        "blob/a94556e6e3b51c472d56e68cea6394ce44024952.nq.gz",
+        "blob/7d063f1a332dba7df714f3f6b2244cc552fd0759.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
