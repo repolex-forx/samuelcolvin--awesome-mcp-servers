@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/awesome-mcp-servers/commit/beb8dc051b807c9568c6e043b317271b59a36779",
       "git:hexsha": "beb8dc051b807c9568c6e043b317271b59a36779",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T09:11:52.563352+00:00"
     }
   ]
 }
